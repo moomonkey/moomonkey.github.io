@@ -1,10 +1,10 @@
-Interactive Music
+## Interactive Music
 
-This is an introducory course in interactive sounds using p5.js
+# This is an introducory course in interactive sounds using p5.js
 
-[The p5 editor is used] (https://editor.p5js.org)
+[The p5 editor is used](https://editor.p5js.org)
 
-[Play a sound] (https://editor.p5js.org/moomonkey/sketches/tw8YdYNi)
+[Play a sound](https://editor.p5js.org/moomonkey/sketches/tw8YdYNi)
 
 
 
