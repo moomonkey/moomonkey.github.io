@@ -1,3 +1,14 @@
+Interactive Music
+
+This is an introducory course in interactive sounds using p5.js
+
+[The p5 editor is used] (https://editor.p5js.org)
+
+[Play a sound] (https://editor.p5js.org/moomonkey/sketches/tw8YdYNi)
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/moomonkey/moomonkey.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
